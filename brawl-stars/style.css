@@ -1,0 +1,50 @@
+body {
+  background-position: center;
+  background-image: url("https://th.bing.com/th/id/R.46fed2b2a507ed4aad918a69c8a27bc9?rik=PmWh5eBRvjNv9Q&pid=ImgRaw&r=0");
+  margin: 50px;
+}
+
+#big__cheese {
+  background-color: white;
+}
+
+h3.grrr {
+  background-color: aqua;
+}
+
+a {
+  color: blue;
+}
+
+#MONKE {
+  opacity: 0.7;
+}
+
+#big__p {
+  margin: inherit;
+}
+
+#div__1 {
+  background-color: black;
+  color: white;
+  
+}
+
+#div__2 {
+  background-color: red;
+  color: blue;
+}
+
+#div__1, #div__2 {
+  margin-top: 30px;
+  border: 4px solid;
+  border-radius: 16px;
+  padding: 40px;
+  max-height: 25%;
+  max-width: 50%;
+  outline: 5px solid gray;
+  outline-offset: 3px;
+  text-align: left;
+  vertical-align: middle;
+  text-decoration: overline;
+}
